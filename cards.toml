@@ -2,15 +2,19 @@
 title="Cartoon Animals"
 items=["Garfield", "Scooby-Doo", "Yogi Bear", "Bugs Bunny", "Mickey Mouse", "Goofy", "Jiminy Cricket", "Danger Mouse", "Nemo", "Tony the Tiger", "Snoopy", "Bambi", "Dumbo", "Paddington Bear", "Simba", "Sonic the Hedgehog"]
 
-
 [countries]
 title="Countries"
 items=["UK", "Spain", "Japan", "Brazil", "France", "USA", "Italy", "Australia", "Germany", "Mexico", "India", "Israel", "Canada", "China", "Russia", "Egypt"] 
+title_pl="Państwa"
+items_pl=["Wielka Brytania", "Hiszpania", "Japonia", "Brazylia", "Francja", "Stany Zjednoczone", "Włochy", "Australia", "Niemcy", "Meksyk", "Indie", "Izrael", "Kanada", "Chiny", "Rosja", "Egipt"]
 
 
 [phobias]
 title="Phobias"
-items=["Ghosts", "Spiders", "Monsters", "Rats", "Toilets", "Snakes", "Germs", "Clwons", "Needles", "Dogs", "Birds", "Insects", "Children", "Shadows", "Roller Coasters", "Planes"]
+items=["Ghosts", "Spiders", "Monsters", "Rats", "Toilets", "Snakes", "Germs", "Clowns", "Needles", "Dogs", "Birds", "Insects", "Children", "Shadows", "Roller Coasters", "Planes"]
+title_pl="Fobie"
+items_pl=["Duchy", "Pająki", "Potwory", "Szczury", "Toalety", "Węże", "Bakterie", "Klauni", "Igły", "Psy", "Ptaki", "Owady", "Dzieci", "Cienie", "Kolejki górskie", "Samoloty"]
+title_pl="Fobie"
 
 
 [hobbies]
